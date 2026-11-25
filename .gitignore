@@ -1,0 +1,8 @@
+.idea/
+*.iml
+data/cache-*/
+__pycache__/
+check.cjs
+verification.json
+mobile.png
+comparison-flat.png
